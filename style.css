@@ -6,6 +6,7 @@
 }
 
 body {
+    background-image: linear-gradient(90deg, #6699CC, #3366CC);
     font-family: 'Roboto', sans-serif;
     display: flex;
     flex-direction: column;
